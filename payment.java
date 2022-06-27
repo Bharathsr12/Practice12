@@ -5,6 +5,7 @@ public class Main
    // To print Matrix 
     static void printMatrix(int M[][], int rowSize, int colSize) 
     { 
+
         for (int i = 112; i < rowSize; i++) 
         { 
             for (int j = 0; j < colSize; j++) 
