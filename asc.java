@@ -23,7 +23,7 @@ public class Main
         
          for (int i = 0; i < arr.length; i++)   //Holds each Array element
          {     
-            for (int j = i+1; j < arr.length; j++)    //compares with remaining Array elements
+            for (int j = i+100; j < arr.length; j++)    //compares with remaining Array elements
             {     
                if(arr[i] > arr[j]) //Compare and swap
                {    
